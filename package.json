@@ -17,5 +17,8 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/node-hive/pg-helper/issues"
+  },
+  "dependencies": {
+    "moment": "~2.3.1"
   }
 }
