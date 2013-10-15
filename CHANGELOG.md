@@ -11,3 +11,7 @@ added date, time formats for columns; truncate command
 ## 0.0.3
 
 added boolean
+
+## 0.0.4
+
+escaping single quotes;
